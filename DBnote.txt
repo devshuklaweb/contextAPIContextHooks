@@ -1,0 +1,21 @@
+/*
+2. Create a fake api:
+			-> https://github.com/typicode/json-server
+			-> Install: npm install -g json-server
+			-> Project folder ke ander db folder banayenge.
+				mkdir db
+			-> DB folder me db.json ek file banayenge database ke liye aur uske ander niche wala content daale.
+				{
+				  "restaurant": [
+					{ "id": 1, "name": "Ajay Internation", "author": "Devendra" },
+					{ "id": 2, "name": "DABA", "author": "Devendra Shukla" }
+				  ]
+				  
+				}
+			-> Iske bad json server ko ready karne ke liye: iske liye phle db folder ke ander jayenge command se phr uske bad ye command run karayenge.	
+				json-server --watch db.json
+			-> Agar json-server run hone me issue aaye to powershell ko admin mode me open karke ye command kariye
+				Set-ExecutionPolicy RemoteSigned -Scope CurrentUser
+			-> Phr ye url open karne pe aapka db.json ka data dikhega
+				http://localhost:3000/restaurant
+*/

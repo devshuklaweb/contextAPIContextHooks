@@ -1,0 +1,139 @@
+// 20240511160035
+// https://newsapi.org/v2/top-headlines?country=in&apiKey=2121b7a810f14aafa636ce4bec429501&page=1
+
+{
+    "status": "ok",
+    "totalResults": 38,
+    "articles": [
+      {
+        "source": {
+          "id": null,
+          "name": "News18"
+        },
+        "author": "S Aadeetya",
+        "title": "WhatsApp Redesign Chat UI For iPhone And Android Users Is Live: Here’s What You Get Now - News18",
+        "description": "WhatsApp has been trying new UI design for a while and the latest update for Android and iOS users is giving them a new look.",
+        "url": "https://www.news18.com/tech/whatsapp-redesign-chat-ui-for-iphone-and-android-users-is-live-heres-what-you-get-now-8885070.html",
+        "urlToImage": "https://images.news18.com/ibnlive/uploads/2024/05/whatsapp-new-chat-ui-2024-05-7ddb1211b315053c009d1152c05a87db-16x9.jpg?impolicy=website&width=1200&height=675",
+        "publishedAt": "2024-05-10T08:22:09Z",
+        "content": "WhatsApp is getting a new coat of paint, new user interface and more feature additions for iPhone and Android users this month. The Meta-owned platform claims it works on making the app simple, relia… [+1526 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "NDTV News"
+        },
+        "author": "NDTV News Desk",
+        "title": "Arvind Kejriwal Bail Hearing LIVE Updates: Supreme Court's Verdict On Arvind Kejriwal's Bail Likely Today - NDTV",
+        "description": "The Supreme Court today gave interim bail to Delhi Chief Minister Arvind Kejriwal for 21 days and asked the national convenor of the Aam Aadmi Party (AAP) to surrender on June 2.",
+        "url": "https://www.ndtv.com/india-news/arvind-kejriwal-bail-hearing-live-breaking-news-updates-supreme-court-verdict-on-aap-chief-likely-today-in-delhi-liquor-policy-scam-case-5630603",
+        "urlToImage": "https://c.ndtvimg.com/2024-05/vlt18i4g_arvind-kejriwal_625x300_10_May_24.jpeg?ver-20240506.08",
+        "publishedAt": "2024-05-10T08:18:34Z",
+        "content": "Arvind Kejriwal Bail Plea Live: The AAP chief was arrested on March 21\r\nArvind Kejriwal Bail Hearing LIVE Updates: The Supreme Court today gave interim bail to Delhi Chief Minister Arvind Kejriwal fo… [+5721 chars]"
+      },
+      {
+        "source": {
+          "id": "google-news",
+          "name": "Google News"
+        },
+        "author": null,
+        "title": "\"I Am Just Convener\": Jay Shah Names Man Behind Ishan Kishan, Shreyas Iyer's BCCI Contracts Exit - NDTV Sports",
+        "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+        "url": "https://news.google.com/rss/articles/CBMif2h0dHBzOi8vc3BvcnRzLm5kdHYuY29tL2NyaWNrZXQva2lzaGFuLWl5ZXJzLWV4Y2x1c2lvbi1mcm9tLWNlbnRyYWwtY29udHJhY3RzLXdhcy1jaGllZi1zZWxlY3Rvci1hZ2Fya2Fycy1jYWxsLWpheS1zaGFoLTU2MzA5ODPSAYUBaHR0cHM6Ly9zcG9ydHMubmR0di5jb20vY3JpY2tldC9raXNoYW4taXllcnMtZXhjbHVzaW9uLWZyb20tY2VudHJhbC1jb250cmFjdHMtd2FzLWNoaWVmLXNlbGVjdG9yLWFnYXJrYXJzLWNhbGwtamF5LXNoYWgtNTYzMDk4My9hbXAvMQ",
+        "urlToImage": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+        "publishedAt": "2024-05-10T07:22:07Z",
+        "content": null
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "BusinessLine"
+        },
+        "author": "Reuters",
+        "title": "Apple apologises for iPad Pro ‘Crush’ ad, Ad Age says - BusinessLine",
+        "description": "Apple apologises for controversial iPad Pro ad showing creativity being crushed.",
+        "url": "https://www.thehindubusinessline.com/info-tech/apple-apologises-for-ipad-pro-crush-ad-ad-age-says/article68160119.ece",
+        "urlToImage": "https://bl-i.thgim.com/public/incoming/5r0o9j/article68160332.ece/alternates/LANDSCAPE_1200/2024-05-10T010415Z_166992934_RC2CN7A5OLKZ_RTRMADP_3_APPLE-IPAD-AD.JPG",
+        "publishedAt": "2024-05-10T07:01:59Z",
+        "content": "Apple apologised on Thursday after an advertisement for its latest iPad Pro model sparked criticism by showing an animation of musical instruments and other symbols of creativity being crushed, Ad Ag… [+1416 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "India Today"
+        },
+        "author": "India Today Science Desk",
+        "title": "Earth braces for severe geomagnetic storms. Five big eruptions leave the Sun - India Today",
+        "description": "Earth might experience a severe geomagnetic storm when the CMEs arrive this weekend If geomagnetic storms were hurricanes 039severe039 would be category 4",
+        "url": "https://www.indiatoday.in/science/story/earth-braces-for-severe-geomagnetic-storms-five-big-eruptions-leave-the-sun-2537489-2024-05-10",
+        "urlToImage": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202405/solar-eruption-10531984-16x9_0.jpg?VersionId=xx6CbFDUibaXAjlIKcrXWctTlwG_AVrY",
+        "publishedAt": "2024-05-10T07:01:12Z",
+        "content": "Earth is set to be slammed by a series of geomagnetic storms as activity on the Sun peaks and several big eruptions hurtle through the inner Solar System. \r\nFive Coronal Mass Ejections (CME), the big… [+2489 chars]"
+      },
+      {
+        "source": {
+          "id": "espn-cric-info",
+          "name": "ESPN Cric Info"
+        },
+        "author": "ESPNcricinfo staff",
+        "title": "BCCI to invite applications for new India men's head coach before T20 World Cup - ESPNcricinfo",
+        "description": "Rahul Dravid can re-apply for the role, BCCI secretary Jay Shah said",
+        "url": "https://www.espncricinfo.com/story/india-head-coach-bcci-to-call-for-applications-before-t20-world-cup-1433171",
+        "urlToImage": "https://img1.hscicdn.com/image/upload/f_auto/lsci/db/PICTURES/CMS/376400/376441.6.jpg",
+        "publishedAt": "2024-05-10T06:46:14Z",
+        "content": "NewsRahul Dravid can re-apply for the role, BCCI secretary Jay Shah said"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Deccan Herald"
+        },
+        "author": "PTI",
+        "title": "Population rise not linked to religion, decline in fertility rate most among Muslims: NGO flags 'misreporting' of Centre's study - Deccan Herald",
+        "description": "New Delhi, May 9 (PTI) Population growth rates are not linked to religion and the Total Fertility Rate (TFR) among all religious groups is declining, with the highest decrease observed among Muslims, NGO Population Foundation of India has said amid a debate o…",
+        "url": "https://www.deccanherald.com/india/population-rise-not-linked-to-religion-highest-decline-in-fertility-rate-among-muslims-ngo-flags-misreporting-of-study-3015831",
+        "urlToImage": "https://images.deccanherald.com/deccanherald%2F2024-05%2F920ce4c6-f19a-4bc8-9f5c-983bcb27e7b2%2FPTI11_9_2019_000087B.jpg?rect=0%2C110%2C3691%2C1938&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop",
+        "publishedAt": "2024-05-10T06:21:49Z",
+        "content": "In a statement, the Population Foundation of India said it is deeply concerned about recent media reports \"misreporting\" the findings from the study to spread alarm regarding the growth of the Muslim… [+3301 chars]"
+      },
+      {
+        "source": {
+          "id": "google-news",
+          "name": "Google News"
+        },
+        "author": "The Times of India",
+        "title": "On cam: BJP candidate runs to file nomination in UP's Deoria - The Times of India",
+        "description": null,
+        "url": "https://news.google.com/rss/articles/CBMihQFodHRwczovL3RpbWVzb2ZpbmRpYS5pbmRpYXRpbWVzLmNvbS9jaXR5L2x1Y2tub3cvb24tY2FtLWJqcC1jYW5kaWRhdGUtcnVucy10by1maWxlLW5vbWluYXRpb24taW4tdXBzLWRlb3JpYS9hcnRpY2xlc2hvdy8xMTAwMDA0NzIuY21z0gGJAWh0dHBzOi8vdGltZXNvZmluZGlhLmluZGlhdGltZXMuY29tL2NpdHkvbHVja25vdy9vbi1jYW0tYmpwLWNhbmRpZGF0ZS1ydW5zLXRvLWZpbGUtbm9taW5hdGlvbi1pbi11cHMtZGVvcmlhL2FtcF9hcnRpY2xlc2hvdy8xMTAwMDA0NzIuY21z?oc=5",
+        "urlToImage": null,
+        "publishedAt": "2024-05-10T06:10:00Z",
+        "content": null
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Hindustan Times"
+        },
+        "author": "HT News Desk",
+        "title": "Haryana political crisis: CM Saini accuses Congress of ‘misleading’ people, JJP MLAs meet Khattar | Top updates - Hindustan Times",
+        "description": "The BJP government in Haryana is in minority after three independent MLAs withdrew their support on Tuesday. | Latest News India",
+        "url": "https://www.hindustantimes.com/india-news/haryana-political-crisis-congress-misleading-people-says-cm-saini-jjp-mlas-meet-khattar-top-updates-101715317190592.html",
+        "urlToImage": "https://www.hindustantimes.com/ht-img/img/2024/05/10/1600x900/Haryana-chief-minister-Nayab-Singh-Saini-on-Thursd_1715245194731_1715317485554.png",
+        "publishedAt": "2024-05-10T06:05:47Z",
+        "content": "Amid the ongoing political crisis in Haryana, where three independent legislators withdrew their support to the state BJP government, taking away its majority, chief minister Nayab Singh Saini on Fri… [+1765 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Bar & Bench - Indian Legal News"
+        },
+        "author": "Satyendra Wankhade",
+        "title": "Narendra Dabholkar murder: Pune Court convicts two, acquits three - Bar & Bench - Indian Legal News",
+        "description": "A Pune Court today convicted two accused persons and acquitted three in the murder of rationalist Narendra Dabholkar. Accused Sachin Andure, Sharad Kalaskar wer",
+        "url": "https://www.barandbench.com/news/narendra-dabholkar-murder-pune-court-convicts-two-acquits-three",
+        "urlToImage": "https://media.assettype.com/barandbench%2F2024-05%2Fd65f2e40-7c3a-4a21-9d3c-9e118c125bb4%2F07.jpg?w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
+        "publishedAt": "2024-05-10T05:58:44Z",
+        "content": "Dabholkar, founder of Maharashtra Andhashraddha Nirmoolan Samiti (MANS) was shot dead by two assailants during a morning walk in Pune in 2013.\r\nThe accused, who are linked to Sanatan Sanstha organisa… [+794 chars]"
+      }
+    ]
+  }

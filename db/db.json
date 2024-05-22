@@ -1,0 +1,43 @@
+{
+  "login": [
+    {
+      "username": "admin",
+      "password": "1234",
+      "id": "4f14"
+    }
+  ],
+  "users": [
+    {
+      "id": "2",
+      "first_name": "Ram/sita Ji",
+      "last_name": "S",
+      "email": "devshukla0123@gmail.com",
+      "address": "Rajapur Prayagraj"
+    },
+    {
+      "id": "4",
+      "first_name": "Devendra Kumar Shukla",
+      "last_name": "S",
+      "email": "devshukla0123@gmail.com",
+      "address": "Rajapur Allahabad"
+    },
+    {
+      "id": "1716186854742",
+      "first_name": "dev",
+      "last_name": "shukla",
+      "email": "abc1234@gmail.com"
+    },
+    {
+      "id": "1716286507156",
+      "first_name": "abcd",
+      "last_name": "abc",
+      "email": "rizwanalikhan64@gmail.com"
+    },
+    {
+      "id": "1716286914433",
+      "first_name": "deven",
+      "last_name": "sdf",
+      "email": "sdfsdf2@gmail.com"
+    }
+  ]
+}
